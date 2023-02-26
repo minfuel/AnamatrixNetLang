@@ -1,5 +1,5 @@
 # AnamatrixNetLang
-"AnamatrixNetLang" is a great mashup name that combines the words "analog", "matrix", "net", and "lang". It's a memorable and unique name that suggests a programming language built on a combination of analog and digital technologies, with a focus on complex networks and interconnected systems. The name implies a language that is both advanced and versatile, with the ability to handle complex programming tasks with ease. Overall, I think it's a strong name for a GitHub repository or programming language.
+"AnamatrixNetLang" is a great mashup name that combines the words "analog", "matrix", "net", and "lang". It's a memorable and unique name that suggests a programming language built on a combination of analog and digital technologies, with a focus on complex networks and interconnected systems. The name implies a language that is both advanced and versatile, with the ability to handle complex programming tasks with ease. 
 
 # TODO
 1. Determine the language's purpose and goals: This step involves defining the purpose and goals of your programming language. For example, you might want to build a language that's designed for data science, machine learning, or game development. You'll also need to define the key features and functionality of your language, such as syntax, data types, control structures, and functions.
@@ -8,3 +8,12 @@
 4. Implement the language features: With the lexer and parser in place, you can start implementing the language features. This involves defining the behavior of variables, functions, control structures, and other key programming concepts. You'll also need to define the data types that the language supports, such as integers, floats, and strings.
 5. Build a compiler or interpreter: Once your language features are defined, you'll need to build a compiler or interpreter to translate the code into machine-readable instructions. A compiler generates executable code from the source code, while an interpreter executes the code directly.
 6. Test and refine the language: Finally, you'll need to test and refine the language to ensure it works as intended. This involves writing test cases, debugging code, and iterating on the language design to improve its usability and functionality.
+
+# How it works? (open for iteration/working theory)
+At its core, Anamatrix Net Lang leverages cutting-edge machine learning algorithms to enable the language to understand and interpret human language in a way that traditional programming languages cannot. 
+This results to: 
+  - Writing less code for more advance capabilities
+  - Best practices when coding, like auto documentation
+  - Exporting documentation
+  - Automation meaning a boost in your worklow
+  - Debug assistance: no need for worrying about bugs, bugs detection is intergrated, insted of showing you the bugs like all programming languages,the language fixes it
