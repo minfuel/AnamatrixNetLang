@@ -19,4 +19,4 @@ This results to:
   - Debug assistance: no need for worrying about bugs, bugs detection is intergrated, insted of showing you the bugs like all programming languages,the language fixes it
   
 # Discussions
-Would you like a Interpreter/Compiler based language?
+Would you like a Interpreter or Compiler or Transpiled or Byte-code Interprated  based language?
