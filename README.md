@@ -1,5 +1,5 @@
 # AnamatrixNetLang
-"AnamatrixNetLang" is a great mashup name that combines the words "analog", "matrix", "net", and "lang". It's a memorable and unique name that suggests a programming language built on a combination of analog and digital technologies, with a focus on complex networks and interconnected systems. The name implies a language that is both advanced and versatile, with the ability to handle complex programming tasks with ease. 
+"AnamatrixNetLang" is a great mashup name that combines the words "analog", "matrix", "net", and "lang". It's a memorable name that of a programming language built on a combination of analog and digital technologies, with a focus on complex networks and interconnected systems. The language is both advanced and versatile, with the ability to handle complex programming tasks with ease. 
 
 # TODO
 1. Determine the language's purpose and goals: This step involves defining the purpose and goals of your programming language. For example, you might want to build a language that's designed for data science, machine learning, or game development. You'll also need to define the key features and functionality of your language, such as syntax, data types, control structures, and functions.
